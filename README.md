@@ -1,5 +1,3 @@
-This repo is a backup/copy of the code for the dbf website hosted at https://dbf.ucsd.edu/.
-Editing this repo will not actually change the live website, and the code in this repo and may not be completely up to date. This is strictly a backup in case we screw up badly with the live version.
-For information on how to edit the live website please reach out to @jdweak or @schrodingerscat9010 in the dbf discord.
+This repo is the source of the UCSD DBF website TBD_LINK. The website is currently hosted using github pages and tied to the domain name reserved through TBD. For info about how to edit the website refer to this guide: 
 
-TODO: Pretty sure we are unable to directly connect a github repo to the live site due to firewall/network restrictions, need to confirm with ITS. -jdweak
+If you still have questions about the website reach out to @jdweak on the dbf discord.
